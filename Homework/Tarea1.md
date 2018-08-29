@@ -1,6 +1,8 @@
 Cómputo Móvil Marduk Perez de Lara Dominguez Tarea1 Agosto 22, 2018 Garduño De La Rosa Eric
+
 Característica de la computación móvil
 La tecnología móvil posee dos características principales que la hacen diferente a otras formas: movilidad y el amplio alcance.
+
 Movilidad
 ·         Implica la portabilidad basada en el hecho de que los usuarios llevan un Dispositivo móvil a todas las partes a donde se dirigen.
 ·         Por lo tanto, los usuarios pueden iniciar el contacto en tiempo real con otros sistemas donde quieran que se encuentren.
